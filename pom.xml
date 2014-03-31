@@ -26,9 +26,9 @@
 	</dependencyManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:onup/curso.git</connection>
-		<url>scm:git:git@github.com:onup/curso.git</url>
-		<developerConnection>scm:git:git@github.com:onup/curso.git</developerConnection>
+		<connection>scm:git:git@github.com:onup/curso2.git</connection>
+		<url>scm:git:git@github.com:onup/curso2.git</url>
+		<developerConnection>scm:git:git@github.com:onup/curso2.git</developerConnection>
 	</scm>
 
 	<build>
